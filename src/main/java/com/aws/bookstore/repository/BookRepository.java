@@ -8,10 +8,4 @@ import com.aws.bookstore.entity.Book;
 @Repository
 public interface BookRepository extends JpaRepository<Book, Long> {
 
-//	public Book addBook(Book book);
-//
-//	public Book getBook(Long bookId);
-//
-//	public String deleteBook(Book book);
-
 }

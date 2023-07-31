@@ -15,6 +15,8 @@ public class Book {
 	private String book_name;
 	
 	private String book_author;
+	
+	public Book() {}
 
 	public Book(Long book_id, String book_name, String book_author) {
 		super();
