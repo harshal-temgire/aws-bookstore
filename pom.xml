@@ -64,10 +64,7 @@
 		</dependency>
 		
 		<!-- https://mvnrepository.com/artifact/software.amazon.awssdk/regions -->
-		<dependency>
-		    <groupId>software.amazon.awssdk</groupId>
-		    <artifactId>regions</artifactId>
-		</dependency>
+		
 				
 
 	</dependencies>
